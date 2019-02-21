@@ -1,2 +1,7 @@
-# First_App_in_Flutter
-First App in Flutter
+```
+# To run the Hello World demo:
+flutter run
+
+# To run the Hello World demo showing Arabic:
+flutter run lib/arabic.dart
+```
